@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "dateformat": "^3.0.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "react": "16.0.0",
     "react-native": "0.51.0",
     "react-native-accordion": "^1.0.1",
